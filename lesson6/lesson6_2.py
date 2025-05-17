@@ -23,3 +23,4 @@ while(True):
         print("您猜了",count,"次\n")
     else:
         print("請輸入提示範圍內的數字")
+        print("great job")
