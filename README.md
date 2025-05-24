@@ -1,2 +1,2 @@
-# Jared73
+# typehint
 Python上課
